@@ -1,3 +1,3 @@
-#### Footer col 2
+#### Joke 2
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Documentation is like sex. When it's good, it's very good. When it's bad, it's better than nothing.

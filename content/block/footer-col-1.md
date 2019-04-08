@@ -1,3 +1,2 @@
-#### Footer col 1
-
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+#### Joke 1
+A user interface is like a joke. If you have to explain it, it's not that good.

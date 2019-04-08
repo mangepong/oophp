@@ -1,0 +1,25 @@
+O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:2:{s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:21:"anax/v2/image/default";s:4:"data";a:1:{s:3:"src";s:68:"image/theme/tree.jpg?width=1100&height=150&crop-to-fit&area=0,0,30,0";}}s:4:"main";a:2:{s:8:"template";s:23:"anax/v2/article/default";s:4:"data";a:3:{s:5:"title";s:12:"Kursen oophp";s:7:"content";s:1359:"<h1>Min me-sida i kursen oophp</h1>
+
+<figure class="figure right">
+<a href="http://localhost:8080/oophp/me/redovisa/htdocs/image/meme.jpg"><img src="http://localhost:8080/oophp/me/redovisa/htdocs/image/meme.jpg?w=400" alt="En bild på vad man tänker efter att validatorn gick bra."/></a>
+<figcaption>
+
+<p>En bild på vad man tänker efter att validatorn gick bra.</p>
+
+</figcaption>
+</figure>
+
+<p>Tjena mitt namn är Emil “Mange” Magnusson. Jag bor och lever mitt liv i vackra Rödeby och ibland i Lyckeby. Mi casa ligger i norra Rödeby (i den bra delen av Rödeby) där jag har min mancave. Jag gick mina första 10 år på Rödebyskolan som jag trivdes bra på. Där jag redan då började fatta tycke för programmering och teknik. Efter det var jag tvungen till att vidga vyerna och ta mig in till staden aka Kallekrona för att gå på den gymnasieskola. Skolan som jag gick på heter Ehrensvärdska och där gick jag en linje som heter Teknik med inriktning Media - och informations teknik. Där fick jag bland annat studera programmeringsspråk som C++, C#, Java, Javascript, HTML, CSS och lite PHP. Dessa språken låste jag under 2 år så jag har en grundläggande förståelser för de olika språken. Jag tog studenten sommaren 2018 och påbörjade sedan en utblidning på Blekinges Tekniska Högskola (BTH) som heter Webbprogrammering.</p>
+";s:7:"excerpt";s:1359:"<h1>Min me-sida i kursen oophp</h1>
+
+<figure class="figure right">
+<a href="http://localhost:8080/oophp/me/redovisa/htdocs/image/meme.jpg"><img src="http://localhost:8080/oophp/me/redovisa/htdocs/image/meme.jpg?w=400" alt="En bild på vad man tänker efter att validatorn gick bra."/></a>
+<figcaption>
+
+<p>En bild på vad man tänker efter att validatorn gick bra.</p>
+
+</figcaption>
+</figure>
+
+<p>Tjena mitt namn är Emil “Mange” Magnusson. Jag bor och lever mitt liv i vackra Rödeby och ibland i Lyckeby. Mi casa ligger i norra Rödeby (i den bra delen av Rödeby) där jag har min mancave. Jag gick mina första 10 år på Rödebyskolan som jag trivdes bra på. Där jag redan då började fatta tycke för programmering och teknik. Efter det var jag tvungen till att vidga vyerna och ta mig in till staden aka Kallekrona för att gå på den gymnasieskola. Skolan som jag gick på heter Ehrensvärdska och där gick jag en linje som heter Teknik med inriktning Media - och informations teknik. Där fick jag bland annat studera programmeringsspråk som C++, C#, Java, Javascript, HTML, CSS och lite PHP. Dessa språken låste jag under 2 år så jag har en grundläggande förståelser för de olika språken. Jag tog studenten sommaren 2018 och påbörjade sedan en utblidning på Blekinges Tekniska Högskola (BTH) som heter Webbprogrammering.</p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:12:"Kursen oophp";}}
