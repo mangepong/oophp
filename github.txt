@@ -1,1 +1,1 @@
-https://github.com/mangepong/oophp.git
+https://github.com/mangepong/oophp

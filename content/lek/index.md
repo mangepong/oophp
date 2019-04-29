@@ -5,6 +5,8 @@ Detta innehåll är skrivet i markdown och du hittar innehållet i filen `conten
 
 Tanken är att du kan ha en samlingssida där du kan länka till egna testsidor och testroutes, inom eller utom din me-sida.
 
+Längre ner på sidan så hittar du spelet Guess.
+
 
 
 Testssida i `content/` {#ts}
@@ -29,10 +31,10 @@ Du kan även skapa nya filer under `router/`, de läses in i ordning.
 
 
 
-Testfiler {#tf}
+Testfiler och Guess spel {#tf}
 ---------------------------
 
 Du kan också lägga till vanlig PHP-kod i filer under katalogen `htdocs/`, de kan du köra som vanliga PHP-program och du länkar direkt till dem.
 
-* [Ett demo skript](demo/demo.php)
+* [Guess spel](guess/index.php)
 * [PHP info, detaljer om installationen](demo/phpinfo.php)
