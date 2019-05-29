@@ -1,4 +1,4 @@
-O:8:"stdClass":7:{s:4:"file";s:19:"guess-game/index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:1:{s:4:"main";a:2:{s:8:"template";s:23:"anax/v2/article/default";s:4:"data";a:2:{s:7:"content";s:351:"<h1>Gissa mitt nummer</h1>
+O:8:"stdClass":7:{s:4:"file";s:19:"guess-game/index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:1:{s:4:"main";a:2:{s:8:"template";s:23:"anax/v2/article/default";s:4:"data";a:2:{s:7:"content";s:530:"<h1>Gissa mitt nummer</h1>
 
 <p>Välkommen till spelet gissa mitt nummer.</p>
 
@@ -9,7 +9,13 @@ O:8:"stdClass":7:{s:4:"file";s:19:"guess-game/index.md";s:7:"section";s:0:"";s:5
 <p>Välkommen till Tärningsspel 100.</p>
 
 <p><a href="http://localhost:8080/oophp/me/redovisa/htdocs/dice/init">Starta ett nytt spel.</a></p>
-";s:7:"excerpt";s:351:"<h1>Gissa mitt nummer</h1>
+
+<h1>Tärningsspel 100 (V.2)</h1>
+
+<p>Välkommen till Tärningsspel 100.</p>
+
+<p><a href="http://localhost:8080/oophp/me/redovisa/htdocs/dice1/init">Starta ett nytt spel.</a></p>
+";s:7:"excerpt";s:530:"<h1>Gissa mitt nummer</h1>
 
 <p>Välkommen till spelet gissa mitt nummer.</p>
 
@@ -20,4 +26,10 @@ O:8:"stdClass":7:{s:4:"file";s:19:"guess-game/index.md";s:7:"section";s:0:"";s:5
 <p>Välkommen till Tärningsspel 100.</p>
 
 <p><a href="http://localhost:8080/oophp/me/redovisa/htdocs/dice/init">Starta ett nytt spel.</a></p>
+
+<h1>Tärningsspel 100 (V.2)</h1>
+
+<p>Välkommen till Tärningsspel 100.</p>
+
+<p><a href="http://localhost:8080/oophp/me/redovisa/htdocs/dice1/init">Starta ett nytt spel.</a></p>
 ";}}}s:11:"frontmatter";a:1:{s:5:"title";s:17:"Gissa mitt nummer";}}

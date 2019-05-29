@@ -4,3 +4,6 @@
 memory::
 composer.lock
 doc/
+C:/
+cache/
+config/database.php

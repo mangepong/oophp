@@ -88,5 +88,20 @@ return [
             "url" => "guess-game",
             "title" => "Alla spel",
         ],
+        [
+            "text" => "Databas",
+            "url" => "movie",
+            "title" => "Databasen Movie",
+        ],
+        [
+            "text" => "Textfilter",
+            "url" => "textfilter",
+            "title" => "Testa textfilter",
+        ],
+        [
+            "text" => "CMS",
+            "url" => "content",
+            "title" => "Blogg",
+        ],
     ],
 ];
